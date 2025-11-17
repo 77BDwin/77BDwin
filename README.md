@@ -1,4 +1,4 @@
-# Awesome Go
+#77BDwin https://77bd.win/?dl=845iv4
 
 <a href="https://awesome-go.com/"><img align="right" src="https://github.com/avelino/awesome-go/raw/main/tmpl/assets/logo.png" alt="awesome-go" title="awesome-go" /></a>
 
